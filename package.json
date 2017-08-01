@@ -1,6 +1,6 @@
 {
   "name": "jade-autocompile",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "description": "Jade autocompiler for Atom.io",
   "main": "./lib/jade-autocompile.js",
   "engines": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ManRueda/jade-autocompile.git"
+    "url": "git+https://github.com/thealexander90/jade-autocompile.git"
   },
   "keywords": [
     "jade",
@@ -23,9 +23,9 @@
   "author": "Manuel Rueda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ManRueda/jade-autocompile/issues"
+    "url": "https://github.com/thealexander90/jade-autocompile/issues"
   },
-  "homepage": "https://github.com/ManRueda/jade-autocompile#readme",
+  "homepage": "https://github.com/thealexander90/jade-autocompile#readme",
   "dependencies": {
     "atom-space-pen-views": "2.2.0",
     "domify": "1.4.0",
